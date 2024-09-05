@@ -1,0 +1,12 @@
+html,body,div{
+	height:100%;
+}
+div{
+	display:flex;
+	flex-direction: column;
+	align-items: center;/*выравнивание по горизонтали*/
+	justify-content: center;/*выравнивание по вертикали*/
+}
+a{
+	color:red;
+}
